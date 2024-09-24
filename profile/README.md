@@ -44,3 +44,6 @@
 
 5. **Step 5: Email Generation**  
    Envelope AI learns your writing style and preferences, offering personalized email drafts that you can approve and send with minimal effort.
+
+   
+![IMG_7562](https://github.com/user-attachments/assets/6bdfaba5-6c0b-4d27-b047-98264608df75)
